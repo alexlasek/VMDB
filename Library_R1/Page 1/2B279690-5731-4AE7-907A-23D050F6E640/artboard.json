@@ -4,12 +4,14 @@
     "_class": "color",
     "alpha": 1,
     "blue": 1,
+    "do_objectID": "0F7C02C7-7426-43B1-9262-7FE200C3DAEE",
     "green": 1,
     "red": 1
   },
-  "do_objectID": "11529051-E8B3-4B04-8553-C714D0610D18",
+  "do_objectID": "2B279690-5731-4AE7-907A-23D050F6E640",
   "exportOptions": {
     "_class": "exportOptions",
+    "do_objectID": "3B5B0739-3B96-4EB9-AC56-D82AD91BDCF8",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -20,9 +22,10 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
+    "do_objectID": "8BAE459B-B3AA-4A59-B484-78E5D32305B4",
     "height": 496,
     "width": 373,
-    "x": 561,
+    "x": 1034,
     "y": 132
   },
   "hasBackgroundColor": false,
@@ -30,6 +33,7 @@
   "horizontalRulerData": {
     "_class": "rulerData",
     "base": 0,
+    "do_objectID": "022078F9-E726-49B9-89F7-ED73028DC4B9",
     "guides": [
     ]
   },
@@ -43,11 +47,11 @@
   "layerListExpandedType": 2,
   "layers": [
     {
-      "class": "text",
-      "id": "FCE20362-D962-4082-92F5-64F3B376516B"
+      "class": "shapeGroup",
+      "id": "4A9B953F-9008-46C7-972A-7C371FAC7785"
     }
   ],
-  "name": "art2",
+  "name": "art2 copy",
   "nameIsFixed": true,
   "resizesContent": false,
   "resizingConstraint": 63,
@@ -56,6 +60,7 @@
   "shouldBreakMaskChain": true,
   "style": {
     "_class": "style",
+    "do_objectID": "5248854D-6709-43A5-B17A-25DCF82D3737",
     "endDecorationType": 0,
     "miterLimit": 10,
     "startDecorationType": 0
@@ -63,6 +68,7 @@
   "verticalRulerData": {
     "_class": "rulerData",
     "base": 0,
+    "do_objectID": "4D92B976-5AC3-468E-B94E-80E437692CAD",
     "guides": [
     ]
   }
